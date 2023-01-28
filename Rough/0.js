@@ -1,0 +1,11 @@
+let a = "The quick Brown Fox jumps over the lazy Dog";
+let b = "The quick Brown Fox jumps over the lazy Dog";
+let c = "The quick Brown Fox jumps over the lazy Dog";
+let d = "The quick Brown Fox jumps over the lazy Dog";
+let e = "The quick Brown Fox Jumps Over the lazy Dog";
+let f = "The quick Brown Fox jumps over the lazy Dog";
+let g = "The quick Brown Fox jumps over the lazy Dog";
+let h = "The quick Brown Fox jumps over the lazy Dog";
+let i = "The quick Brown Fox jumps over the lazy Dog";
+let j = "The quick Brown Fox jumps over the lazy Dog";
+let k = "The quick Brown Fox jumps over the lazy Dog";
