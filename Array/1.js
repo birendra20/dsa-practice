@@ -55,6 +55,7 @@ S.C = O(1)
 
 */
 
+//third solution
 function findSum(A) {
   let minMax = A.reduce(
     (a, b) => [Math.min(a[0], b), Math.max(a[1], b)],
